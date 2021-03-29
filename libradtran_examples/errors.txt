@@ -1,0 +1,208 @@
+ ... using CH4 volume mixing ratio profile from US standard atmosphere.
+ ... using N2O volume mixing ratio profile from US standard atmosphere.
+ ... using CO volume mixing ratio profile from US standard atmosphere.
+ ... using N2 volume mixing ratio profile from US standard atmosphere.
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+ ******* WARNING >>>>>>  twostr_check_inputs--vertical temperature step may be too large for good accuracy
+
+
+ >>>>>>  TOO MANY WARNING MESSAGES --  ','They will no longer be printed  <<<<<<<
+

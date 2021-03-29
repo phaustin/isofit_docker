@@ -1,0 +1,48 @@
+#################################################
+# DO Community Playbooks: Initial Server Setup
+#################################################
+---
+- name: create user isofit
+  hosts: all
+  become: true
+  vars:
+    username: "isofit"
+    uid: "1000"
+  tasks:
+# # Sudo Group Setup
+    - name: add groups wheel docker and sudo
+      group:
+        name: "{{ item.name }}"
+        state: present
+      with_items:
+        - { name: 'docker'}
+        - { name: 'wheel' }
+        - { name: 'sudo' }
+        - { name: 'users' }
+      tags:
+        - addgroup
+    - name: Allow 'wheel' group to have passwordless sudo
+      lineinfile:
+        path: /etc/sudoers
+        state: present
+        regexp: '^%wheel'
+        line: '%wheel ALL=(ALL) NOPASSWD: ALL'
+        validate: '/usr/sbin/visudo -cf %s'
+      tags:
+        - addgroup
+
+# User + Key Setup
+    - name: Create a new regular user with sudo privileges
+      user:
+        name: "{{ username }}"
+        uid: "{{ uid }}"
+        state: present
+        groups: wheel,docker,users
+        append: true
+        create_home: true
+        shell: /bin/bash
+      tags:
+        - adduser
+
+  
+

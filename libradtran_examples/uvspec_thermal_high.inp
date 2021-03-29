@@ -1,0 +1,18 @@
+# uvspec data files
+data_files_path /libRadtran-2.0.2/data/
+atmosphere_file /libRadtran-2.0.2/data/atmmod/afglus.dat
+source thermal /libRadtran-2.0.2/examples/UVSPEC_LOWTRAN_THERMAL.TRANS
+
+rte_solver twostr    # Radiative transfer equation solver
+#rte_solver tzs    # Radiative transfer equation solver
+# pseudospherical
+#wavelength_grid_file ../examples/UVSPEC_LOWTRAN_THERMAL.TRANS
+
+# mol_abs_param LOWTRAN  # select LOWTRAN molecular absorption 
+mol_abs_param reptran fine 
+zout 2
+wavelength 4000 50000
+
+output_user wavenumber edn eup 
+
+#quiet
