@@ -2,8 +2,8 @@
 
 0) clone the repo
 
-      git clone https://github.com/phaustin/isofit_docker.git
-      git checkout -b dashboard origin/dashboard
+        git clone https://github.com/phaustin/isofit_docker.git
+        git checkout -b dashboard origin/dashboard
 
 1) use conda to install ansible
   
@@ -32,7 +32,7 @@
 6) run libradtran inside the container
 
         cd /analysis_scripts/libradtran_examples
-       (/libRadtran-2.0.2/bin/uvspec < uvspec_thermal_high.inp > results.txt) >& errors.txt
+        (/libRadtran-2.0.2/bin/uvspec < uvspec_thermal_high.inp > results.txt) >& errors.txt
 
 7) inspect the output on the host
  
