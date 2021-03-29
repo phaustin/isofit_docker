@@ -11,7 +11,7 @@ services:
       - "./isofit_output:/isofit/examples/20171108_Pasadena/output"
       - "./isofit_output/images:/isofit/examples/20171108_Pasadena/images"
       - "./isofit_output/lut:/isofit/examples/20171108_Pasadena/lut"
-      - "./libradtran_examples/:/analysis_scripts/libradtran_examples"
+      - "./libradtran_examples/:/analysis_scripts/libradtran_examples"  
 
 
 # docker run -t -i --user isofit -v ~/scratch/isofit_output:/isofit/examples/20171108_Pasadena/output -v ~/scratch/isofit_output/images:/isofit/examples/20171108_Pasadena/images -v ~/scratch/isofit_output/lut:/isofit/examples/20171108_Pasadena/lut serbinsh/isofit_containers:isofit_master_latest /bin/sh -c 'cd /isofit/examples/20171108_Pasadena && mkdir -p lut && ./run_example_libradtran.sh'
