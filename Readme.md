@@ -18,13 +18,13 @@
    has group write permission and belongs to your group
 
         sudo chown -R isofit_docker/libradtran_examples
-        sudo chgrp -R mygroup docker/libradtran_examples
-        sudo chmod -R g+w docker/libradtran_examples
+        sudo chgrp -R mygroup isotit_docker/libradtran_examples
+        sudo chmod -R g+w isofit_docker/libradtran_examples
 
 4) start a docker session in a terminal
 
         cd isofit_docker
-        docker run --name dashboard isofit
+        docker-compose run --name dashboard isofit
 
 5) you should now have the host directory `isofit/libradtran_examples` bind mounted
    inside the container as `/analysis_scripts/libradtran_examples`
